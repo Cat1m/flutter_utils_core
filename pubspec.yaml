@@ -1,0 +1,35 @@
+name: flutter_utils_core
+description: Essential utilities for Flutter development in Vietnam - Date formatting, validation, Vietnamese text processing, and more.
+version: 1.0.0
+homepage: https://github.com/yourusername/flutter_utils_core
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.10.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Core utilities
+  intl: ^0.19.0
+  connectivity_plus: ^5.0.0
+  device_info_plus: ^9.1.0
+  package_info_plus: ^4.2.0
+  url_launcher: ^6.2.0
+  share_plus: ^7.2.0
+  
+  # Optional but useful
+  crypto: ^3.0.3
+  path: ^1.8.3
+  path_provider: ^2.1.5
+  image: ^4.5.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  test: ^1.24.0
+
+flutter:
+  # This package provides utilities only - no assets

@@ -68,8 +68,7 @@ export 'src/formatters/number_formatter.dart';
 export 'src/formatters/text_formatter.dart';
 
 // Helpers
-export 'src/helpers/device_helper.dart';
-export 'src/helpers/connectivity_helper.dart';
+
 export 'src/helpers/navigation_helper.dart';
 export 'src/helpers/logger_helper.dart';
 export 'src/helpers/file_helper.dart';

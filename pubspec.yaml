@@ -12,12 +12,9 @@ dependencies:
     sdk: flutter
   
   # Core utilities
-  intl: ^0.19.0
-  connectivity_plus: ^5.0.0
-  device_info_plus: ^9.1.0
-  package_info_plus: ^4.2.0
+  intl: ^0.20.2
   url_launcher: ^6.2.0
-  share_plus: ^7.2.0
+  
   
   # Optional but useful
   crypto: ^3.0.3
@@ -28,7 +25,7 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^6.0.0
   test: ^1.24.0
 
 flutter:
